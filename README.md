@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlcAStudio
+- 👋🏽 Hi, I’m @AlcAStudio
 - 👀 I’m interested in game development. 
 - 🌱 I’m currently learning Fmod and Unity. 
 - 💞️ I’m looking to collaborate on music production using Propellerhead Reason, any version. 
